@@ -17,11 +17,19 @@ A clean, responsive landing page for **Annora**, a fictional premium food delive
 
 | Hero Section | Features |
 |---|---|
-| *Add screenshot* | *Add screenshot* |
+| ![Hero](screenshots/hero.png) | ![Features](screenshots/features.png) |
 
-| How It Works | Signup |
+| How It Works | Cities / Food Coverage |
 |---|---|
-| *Add screenshot* | *Add screenshot* |
+| ![How It Works](screenshots/how-it-works.png) | ![Cities](screenshots/cities.png) |
+
+| Plans | Testimonials |
+|---|---|
+| ![Plans](screenshots/plans.png) | ![Testimonials](screenshots/testimonials.png) |
+
+| Signup | Footer |
+|---|---|
+| ![Signup](screenshots/signup.png) | ![Footer](screenshots/footer.png) |
 
 ---
 
@@ -69,8 +77,9 @@ FOOD-PROJECT/
 - ⚡ Feature highlights (365-day service, fast delivery, etc.)
 - 🔢 "How it works" step-by-step section
 - 🌍 City coverage showcase (London, Mumbai, Paris, Tokyo)
+- 💰 Subscription plans section
 - 💬 Customer testimonials
-- 📧 Signup form
+- 📧 Contact / signup form with footer
 - 📱 Fully responsive (mobile menu toggle included)
 - 🎞️ Scroll animations via AOS
 
