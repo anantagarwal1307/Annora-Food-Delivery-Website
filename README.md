@@ -8,8 +8,8 @@ A clean, responsive landing page for **Annora**, a fictional premium food delive
 
 | Resource | Link |
 |---|---|
-| 🌐 Live Site | *Add your GitHub Pages / hosting link here* |
-| 📂 Repository | *Add your repo link here* |
+| 🌐 Live Site | [View Live](https://anantagarwal1307.github.io/Food-Delivery-Landing-Page/index.html) |
+| 📂 Repository | [GitHub Repo](https://github.com/anantagarwal1307/Food-Delivery-Landing-Page) |
 
 ---
 
