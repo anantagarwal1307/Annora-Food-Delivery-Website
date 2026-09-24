@@ -1,4 +1,4 @@
-# 🍔 Annora Food Delivery Landing Page
+# 🍔 Annora Food Delivery Website
 
 A clean, responsive landing page for **Annora**, a fictional premium food delivery service. Built with pure HTML and CSS, featuring a hero section, feature highlights, "how it works" steps, city coverage, testimonials, and a signup form.
 
@@ -8,8 +8,8 @@ A clean, responsive landing page for **Annora**, a fictional premium food delive
 
 | Resource | Link |
 |---|---|
-| 🌐 Live Site | [View Live](https://anantagarwal1307.github.io/Food-Delivery-Landing-Page/index.html) |
-| 📂 Repository | [GitHub Repo](https://github.com/anantagarwal1307/Food-Delivery-Landing-Page) |
+| 🌐 Live Site | [View Live](https://anantagarwal1307.github.io/Annora-Food-Delivery-Website/index.html) |
+| 📂 Repository | [GitHub Repo](https://github.com/anantagarwal1307/Annora-Food-Delivery-Website) |
 
 ---
 
