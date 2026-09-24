@@ -19,17 +19,21 @@ A clean, responsive landing page for **Annora**, a fictional premium food delive
 |---|---|
 | ![Hero](screenshots/hero.png) | ![Features](screenshots/features.png) |
 
-| How It Works | Cities / Food Coverage |
+| Food Gallery | How It Works |
 |---|---|
-| ![How It Works](screenshots/how-it-works.png) | ![Cities](screenshots/cities.png) |
+| ![Food Gallery](screenshots/foods.png) | ![How It Works](screenshots/how-it-works.png) |
 
-| Plans | Testimonials |
+| Cities / Food Coverage | Testimonials |
 |---|---|
-| ![Plans](screenshots/plans.png) | ![Testimonials](screenshots/testimonials.png) |
+| ![Cities](screenshots/cities.png) | ![Testimonials](screenshots/testimonials.png) |
 
-| Signup | Footer |
+| Plans | Signup |
 |---|---|
-| ![Signup](screenshots/signup.png) | ![Footer](screenshots/footer.png) |
+| ![Plans](screenshots/plans.png) | ![Signup](screenshots/signup.png) |
+
+| Footer |
+|---|
+| ![Footer](screenshots/footer.png) |
 
 ---
 
